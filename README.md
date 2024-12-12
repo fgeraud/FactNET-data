@@ -52,5 +52,3 @@ Labels used by PolitiFact and Snopes are different, but can be grouped into larg
 | <span style="color:green">True</span>    | 73    |
 | <span style="color:green">Correct Attribution</span>    | 37    |
 | <span style="color:green">Mostly True</span>    | 16    |
-
-<\center>
